@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(10, 43, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  
+
+}
+.meio{
+   
+    font-style: italic;
+    position: absolute;
+    width: 95%;
+    height: 87%;
+    border-radius: 15px;
+    background-color: rgba(76, 172, 116, 0.753);
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    margin: 20px 10px 30px 30px;
+}
+
+div#corpo{
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    width: 320px;
+    height: 300px;
+    background: rgb(138, 141, 138);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+div#mostrar{
+    top: 160px;
+    left: 400px;
+    position: absolute;
+    width: 320px;
+    height: 80px;
+    border-radius: 15px;
+    border: 3px solid black;
+    text-align: right;
+    font-size: 20pt;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    text-align: right;
+  }
+img {
+    margin: 10px;
+    left: 20px;
+    width: 80px;
+    height: 80px;
+    
+}
+h1{
+    top: 5px;
+    position: absolute;
+    left: 90px;
+    font-size: 40px;
+    color: white;
+    font-style: italic;
+   
+   
+   
+}
+.button{
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    border-radius: 8px;
+    font-size: 35px;   
+}
+
+#nummais{
+    width: 80px;
+    font-weight: 20px;
+    background-color: rgb(191, 202, 30);
+}
+#nummenos{
+    width: 80px;
+    font-weight: 20px;
+    background-color: rgb(191, 202, 30);
+}
+#nummult{
+    width: 80px;
+    font-weight: 20px;
+    background-color: rgb(191, 202, 30);
+}
+#numdiv{
+    width: 80px;
+    font-weight: 20px;
+    background-color: rgb(191, 202, 30);
+}
+#ac{
+    width:80px;
+    font-weight: 20px;
+    background-color: rgb(191, 202, 30);
+    
+}
+#equals{
+    width: 120px;
+    font-weight: 20px;
+    background-color: brown;
+    margin-left: 15px; 
+}
+#comma{
+    width:40px;
+    margin-left: 10px; 
+}
+#num0{
+    width:90px;
+    
+}
+#num1{
+    width:40px;
+    margin-left: 10px; 
+}
+#num2{
+    width:40px;
+    margin-left: -40px; 
+}
+#num3{
+    width:40px;
+    margin-left: -60px; 
+}
+#num4{
+    width:40px;
+    margin-left: 10px; 
+}
+#num5{
+    width:40px;
+    margin-left: -50px; 
+    margin-left: -40px; 
+}
+#num6{
+    width:40px;
+    margin-left: -50px;
+    margin-left: -60px;  
+}
+#num7{
+    width:40px;
+    margin-left: 10px; 
+}
+#num8{
+    width:40px;
+    margin-left: -40px;  
+}
+#num9{
+    width:40px;
+    margin-left: -60px; 
+}
+ 
+footer {
+    
+    position:absolute;
+    top:600px;
+    right:50px;
+    color:whitesmoke;
+    
+}
